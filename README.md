@@ -1,0 +1,2 @@
+# Deck_Cards
+The deck cards game contain 52 cards and have two players, the cards are shuffled and divided equals between as two sets of cards, all cards are covered. when the player clicks on his set. the last card is drawn and thrown on the ground. when any player throws a card and its number is similar to the last card on the ground he takes all cards on the ground and added to his cards. the first player finish his cards wins.
